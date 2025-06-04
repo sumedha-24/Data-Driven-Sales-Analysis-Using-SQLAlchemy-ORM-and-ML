@@ -2,6 +2,10 @@
 
 A containerized project built using SQLAlchemy, Flask, and Docker for sales data analysis and gross income prediction in a supermarket setting.
 
+## Demo Video
+
+Watch a quick demo of the project [here](https://drive.google.com/file/d/1K513H7zP3QfabHoVOyQtf2KtOVgbVQ1m/view?usp=drive_link).
+
 ## Overview
 
 This project uses SQLAlchemy ORM to interact with a relational database of supermarket sales. It supports:
